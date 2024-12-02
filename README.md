@@ -11,3 +11,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 ## Puzzles
 
 * [Day 01](https://github.com/mnhtrieu/advent2024/tree/master/01_day) - Historian Hysteria | PART 1: `2367773` | PART 2: `21271939`
+* [Day 02](https://github.com/mnhtrieu/advent2024/tree/master/02_day) - Red-Nosed Reports | PART 1: `334` | PART 2: `400`
