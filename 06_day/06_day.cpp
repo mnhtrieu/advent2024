@@ -47,7 +47,7 @@ void part_1(const string & file) {
     if (start.aa <= 0 || start.aa >= (ll)m[0].size() || start.bb <= 0 || start.bb >= (ll)m.size()) break;
     auto p = make_pair(start.aa + ways[w].aa, start.bb + ways[w].bb);
     if (m[p.bb][p.aa] == '#') { w = ((w + 1) % 4); p = make_pair(start.aa + ways[w].aa, start.bb + ways[w].bb); continue; }
-    pos.insert(start);
+    pos.insert(p);
     start = p;
   }
 
@@ -83,7 +83,7 @@ void part_2(const string & file) {
     if (begin.aa <= 0 || begin.aa >= (ll)m[0].size() || begin.bb <= 0 || begin.bb >= (ll)m.size()) break;
     auto p = make_pair(begin.aa + ways[w].aa, begin.bb + ways[w].bb);
     if (m[p.bb][p.aa] == '#') { w = ((w + 1) % 4); p = make_pair(begin.aa + ways[w].aa, begin.bb + ways[w].bb); }
-    pos.insert(begin);
+    pos.insert(p);
     begin = p;
   }
 
