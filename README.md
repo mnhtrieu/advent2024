@@ -14,3 +14,5 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 02](https://github.com/mnhtrieu/advent2024/tree/master/02_day) - Red-Nosed Reports | PART 1: `334` | PART 2: `400`
 * [Day 03](https://github.com/mnhtrieu/advent2024/tree/master/03_day) - Mull It Over | PART 1: `183380722` | PART 2: `82733683`
 * [Day 04](https://github.com/mnhtrieu/advent2024/tree/master/04_day) - Mull It Over | PART 1: `2493` | PART 2: `1890`
+* [Day 05](https://github.com/mnhtrieu/advent2024/tree/master/05_day) - Print Queue | PART 1: `6041` | PART 2: `4884`
+* [Day 06](https://github.com/mnhtrieu/advent2024/tree/master/06_day) - Guard Gallivant | PART 1: `4903` | PART 2: `1911`
