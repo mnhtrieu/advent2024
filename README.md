@@ -17,3 +17,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 05](https://github.com/mnhtrieu/advent2024/tree/master/05_day) - Print Queue | PART 1: `6041` | PART 2: `4884`
 * [Day 06](https://github.com/mnhtrieu/advent2024/tree/master/06_day) - Guard Gallivant | PART 1: `4903` | PART 2: `1911`
 * [Day 07](https://github.com/mnhtrieu/advent2024/tree/master/07_day) - Bridge Repair | PART 1: `42283209483350` | PART 2: `1026766857276279`
+* [Day 08](https://github.com/mnhtrieu/advent2024/tree/master/08_day) - Resonant Collinearity | PART 1: `367` | PART 2: `1285`
